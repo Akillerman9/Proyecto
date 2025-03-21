@@ -15,7 +15,7 @@ text-align:center;}
 @media screen and (max-width: 480px) {
     #paginas {
         width: 35%;
-        margin-left: 10px; 
+        margin-left: 5px; 
     }
 
     #contenido {
@@ -26,7 +26,7 @@ text-align:center;}
    img.noticias
     {
         max-width: 100%; 
-        padding: 0 15px;
+        padding: 0 10px;
     }
 }
 
