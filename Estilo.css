@@ -7,7 +7,9 @@ text-align:justify;}
 h2.noticias {color: #189ED7;
 font-family: cambria;
 text-align:center;}
+#imgDescrip { overflow: auto;}
 
+#imgDescrip img {  width: 100%;}
 
 media only screen and (min-width:320px) and (max-width:480px) 
 
